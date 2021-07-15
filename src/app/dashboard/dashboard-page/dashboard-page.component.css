@@ -5,4 +5,5 @@
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(21.375rem, 1fr));
   grid-gap: 0.625rem;
+  justify-items: center;
 }
