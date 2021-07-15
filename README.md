@@ -1,5 +1,9 @@
 # stock-quotes-homebroker
 
+<h1 align="center">
+    <img src=".github/stock-quotes-homebroker.PNG" alt="Stock Quotes - Homebroker" />
+</h1>
+
 ## 🧪 Tecnologias utilizadas no projeto
 
 - [Angular](https://angular.io/)
